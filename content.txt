@@ -7,3 +7,39 @@ Yêu cầu:
 -------------------------------------------------------------------------------------
 
 Nội dung tìm hiểu:
+    +) Lọc không gian:
+        - Xử lý trên điểm ảnh
+            + biến đổi đồng nhất
+            + biến đổi tăng độ tương phản
+            + phân ngưỡng
+            + các phép biến đổi:
+                - biến đổi âm bản
+                - biến đổi hàm logarit
+                - biến đổi hàm mũ
+                - biến đổi tuyến tính từng khúc
+                - biến đổi làm mỏng mức xám
+                - biến đổi dựa trên histogram
+                - biến đổi dựa trên phép số học/logic
+        - Xử lý mặt nạ
+            + lọc làm trơn ảnh
+            + lọc thống kê thứ tự:
+                - lọc trung vị
+                - lọc cực đại (max)
+                - lọc cực tiểu (min)
+            + lọc tăng cường độ nét, cải thiện biên
+                - đạo hàm cấp 1
+                - đạo hàm cấp 2
+                - đạo hàm cấp 2 với toán tử Laplacian
+                - đạo hàm bậc nhất toán tử Gradient
+            + lọc nhòe motion blurring
+    +) Lọc tần số:
+        - lọc trơn ảnh, lọc nhiễu
+            + lọc thông thấp lý tưởng
+            + lọc thông thấp Butterworth
+            + lọc thông thấp Gaussian
+        - lọc tăng cường độ nét và cải thiện biên
+            + lọc thông cao lý tưởng
+            + lọc thông cao Butterworth
+            + lọc thông cao Gaussian
+        - phép lọc đồng hình
+
