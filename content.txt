@@ -1,0 +1,9 @@
+Xây dựng chương trình bằng matlab demo các phép lọc ảnh trên hai miền: không gian và tần số
+
+Yêu cầu:
+    - tìm hiểu các phép lọc thông thấp, thông cao, phép lọc làm nhỏe motion blurring
+    - xây dựng các đoạn chương trình demo các phép lọc ảnh trên
+
+-------------------------------------------------------------------------------------
+
+Nội dung tìm hiểu:
