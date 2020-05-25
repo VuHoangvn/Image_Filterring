@@ -1,4 +1,4 @@
-function varargout = demo(varargin)
+function varargout = Filtering(varargin)
 % DEMO MATLAB code for demo.fig
 %      DEMO, by itself, creates a new DEMO or raises the existing
 %      singleton*.
